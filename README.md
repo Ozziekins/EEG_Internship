@@ -10,7 +10,6 @@ This repository contains all the resources and code for the project on detecting
 - [Presentation](#presentation)
 - [Installation and Usage](#installation-and-usage)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Overview
 The project aims to understand the relationship between EEG signals and attention levels during coding tasks. By leveraging deep learning models, the project provides insights into cognitive states and their correlation with different coding activities.
