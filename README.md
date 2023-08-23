@@ -7,7 +7,6 @@ The project may not seem complete. I am still struggling to understand the biolo
 
 ## Table of Contents
 - [Overview](#overview)
-- [Data](#data)
 - [Code](#code)
 - [Report](#report)
 - [Presentation](#presentation)
@@ -16,9 +15,6 @@ The project may not seem complete. I am still struggling to understand the biolo
 
 ## Overview
 The project aims to understand the relationship between EEG signals and attention levels during coding tasks. By leveraging deep learning models, the project provides insights into cognitive states and their correlation with different coding activities.
-
-## Data
-The data folder contains EEG recordings in EDF format, collected during various coding tasks. The data is zipped but can also be downloaded from [here](https://drive.google.com/drive/folders/1nyJV8doPMgnec1V8k5bnObuT3tnygcyH).
 
 ## Code
 The code is provided in a Jupyter Notebook (`EEG_Internship.ipynb`) and includes the tutorial provided, some feature extraction, and modeling steps. You can run the notebook in Google Colab.
